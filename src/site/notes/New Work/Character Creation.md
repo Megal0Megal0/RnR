@@ -4,7 +4,7 @@
 
 
 
-Your connection to the realm of Conundrum allows you learn extremely quickly, you become familiar with weapons, tools and texts in a matter of minutes. 
+Your connection to the realm of Conundrum allows you to learn extremely quickly, you become familiar with weapons, tools and texts in a matter of minutes. 
 
 Roll 1d6 4 times and pick the lowest result, do this 3 times and assign the results to your stats.
 If no roll exceeds 1 you may choose to start over. 
